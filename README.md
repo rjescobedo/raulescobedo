@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/88142181/156945868-b292e553-71cd-4990-9121-e1e824d720e0.jpeg "Header")](raulescobedo-portfolio.netlify.app)
+[![Header](https://user-images.githubusercontent.com/88142181/156945868-b292e553-71cd-4990-9121-e1e824d720e0.jpeg "Header")](https://raulescobedo-portfolio.netlify.app/)
 
 
 
@@ -11,7 +11,7 @@ I have been married to my wife Kaitlin for 9 years and we have 3 beautiful child
 
 ## &#x270d; Projects
 
-Here are a couple of projects I have been working on. Check it out on my GitHub and on my<a href="raulescobedo-portfolio.netlify.app" target="_blank"> portfolio</a>!
+Here are a couple of projects I have been working on. Check it out on my GitHub and on my<a href="https://raulescobedo-portfolio.netlify.app/" target="_blank"> portfolio</a>!
 
 <a href="https://github.com/rjescobedo/thetrainer">
   <img src="https://user-images.githubusercontent.com/88142181/156946246-e6e54268-2100-499c-8508-e951dccb35f8.png" height="500"/>

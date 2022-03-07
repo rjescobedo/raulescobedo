@@ -20,9 +20,9 @@ I have been married to my wife Kaitlin for 9 years and we have 3 beautiful child
   </a>
 
 
-## &#x270d; Projects
+## &#x1F4BB; Projects
 
-Here are a couple of projects I have been working on. Check it out on my GitHub and on my <a href="https://raulescobedo-portfolio.netlify.app/" target="_blank">portfolio</a>!
+Here are a couple of projects I have been working on. Check it out on my GitHub and my <a href="https://raulescobedo-portfolio.netlify.app/" target="_blank">portfolio</a>!
 
 <a href="https://github.com/rjescobedo/thetrainer">
   <img src="https://user-images.githubusercontent.com/88142181/156946246-e6e54268-2100-499c-8508-e951dccb35f8.png" height="500"/>

@@ -28,7 +28,5 @@ Here are a couple of projects I have been working on. Check it out on my GitHub 
   <img src="https://user-images.githubusercontent.com/88142181/156946246-e6e54268-2100-499c-8508-e951dccb35f8.png" height="500"/>
 </a>
 <a href="https://github.com/pgartrell/okb">
-<img src="https://user-images.githubusercontent.com/88142181/156946337-04288ab6-c655-4b86-b7b9-51099e88e7a7.png"/>
+<img src="https://user-images.githubusercontent.com/88142181/156960492-9ea15f19-12d5-43c1-989d-1bfbe7f4a482.png" height="500"/>
 </a>
-
-

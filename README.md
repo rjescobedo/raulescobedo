@@ -4,9 +4,9 @@
 
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Raul and I am a freelance web and mobile developer. My journey began during the summer of 2021 when I was curious about the coding and the tech industry. I began by looking through some instructional YouTube videos, subscribed to Mosh Hamedani's program, and finally signed up for NuCamp's Introduction to HTML, CSS, and JavaScript. Once I began, I knew this was going to be a special journey for me and my family; therefore, I later enrolled in their Full Stack Web and Mobile Development Bootcamp.
+My name is Raul Escobedo and I am a Freelance Web Developer, specializing in the Front-End. I am recent graduate from NuCamp Coding Bootcamp with a certification in Full Stack Web and Mobile Development, a music education graduate from the University of North Texas, tuba performance graduate from Northwestern University. I have been the band director at Lamar Middle School and Fine Arts Academy since 2013. It was during the summer of 2021 that I encountered software development and I have been loving it ever since. 
 
-I have been married to my wife Kaitlin for 9 years and we have 3 beautiful children: Leo, Rachel, and Milo. I have been a middle school band director for 9 years and have loved the teaching aspect, but have also found my niche in design and creativity due to the sudden demand for online learning through the pandemic. Through my years of teaching, and the connections and relationships I've made in the music world, I've found my true passion of software engineering. 
+I feel with my background in the arts, I have a keen eye for creativity and details. As a head band director, it has been important for me to clearly communicate with my students and families on any important activities happening, which I will be able to carry forward into software development. I have also designed many concert programs and assignments over the years. With this new career path, I feel I can continue to learn and to demonstrate my creativity.
 
 <a href="https://raulescobedo-portfolio.netlify.app/" target="_blank">Here</a> is my portfolio. You can also find me on [LinkedIn](https://www.linkedin.com/in/raul-escobedo-8aa7a522/). Feel free to email me at <a href="mailto:rjescobedo@gmail.com">rjescobedo@gmail.com</a>!
 

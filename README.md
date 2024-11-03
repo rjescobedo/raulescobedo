@@ -8,7 +8,7 @@ My name is Raul Escobedo and I am a Freelance Web Developer, specializing in the
 
 I feel with my background in the arts, I have a keen eye for creativity and details. As a head band director, it has been important for me to clearly communicate with my students and families on any important activities happening, which I will be able to carry forward into software development. I have also designed many concert programs and assignments over the years. With this new career path, I feel I can continue to learn and to demonstrate my creativity.
 
-<a href="https://raulescobedo-portfolio.netlify.app/" target="_blank">Here</a> is my portfolio. You can also find me on [LinkedIn](https://www.linkedin.com/in/raul-escobedo-8aa7a522/). Feel free to email me at <a href="mailto:rjescobedo@gmail.com">rjescobedo@gmail.com</a>!
+<a href="https://raulescobedo-portfolio.netlify.app/" target="_blank">Here</a> is my portfolio. Feel free to email me at <a href="mailto:raul.escobedo1012@gmail.com">raul.escobedo1012@gmail.com</a>!
 
 ## &#x1f4c8; GitHub Stats
 

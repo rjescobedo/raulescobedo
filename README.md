@@ -1,14 +1,21 @@
-[![Header](https://user-images.githubusercontent.com/88142181/156945868-b292e553-71cd-4990-9121-e1e824d720e0.jpeg "Header")](https://raulescobedo-portfolio.netlify.app/)
-
-
-
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Raul Escobedo and I am a Freelance Web Developer, specializing in the Front-End. I am recent graduate from Nucamp Coding Bootcamp with a certification in Full Stack Web and Mobile Development, a music education graduate from the University of North Texas, and tuba performance graduate from Northwestern University. I have been the band director at Lamar Middle School and Fine Arts Academy since 2013. It was during the summer of 2021 that I encountered software development and I have been loving it ever since. 
+Hi, I’m Raul Escobedo, a Freelance Web Developer specializing in Front-End Development with a strong passion for creativity and problem-solving.
 
-I feel with my background in the arts, I have a keen eye for creativity and details. As a head band director, it has been important for me to clearly communicate with my students and families on any important activities happening, which I will be able to carry forward into software development. I have also designed many concert programs and assignments over the years. With this new career path, I feel I can continue to learn and to demonstrate my creativity.
+I am currently studying Software Engineering at SMU/Flatiron School, building on my foundation from Nucamp Coding Bootcamp, where I earned a certification in Full Stack Web and Mobile Development in 2022. I also hold degrees in Music Education from the University of North Texas and Tuba Performance from Northwestern University.
 
-<a href="https://raulescobedo-portfolio.netlify.app/" target="_blank">Here</a> is my portfolio. Feel free to email me at <a href="mailto:raul.escobedo1012@gmail.com">raul.escobedo1012@gmail.com</a>!
+For over a decade, I’ve served as the Head Band Director at Lamar Middle School and Fine Arts Academy, where I developed skills in leadership, communication, and design. In the summer of 2021, I discovered my love for software development and have been fully immersed in coding ever since!
+
+Why Choose Me? 🌟
+
+🎨 Creative Eye: My background in the arts has honed my attention to detail and aesthetic sense, which I bring to every project.</br>
+💬 Clear Communication: Years of working with students and families have made me an excellent communicator—essential for teamwork and collaboration.</br>
+📄 Design Experience: From crafting concert programs to assignments, I’ve always loved creating functional and visually appealing designs.
+
+Let’s Connect! 🔗
+
+📁 <a href="https://raulescobedo-portfolio.netlify.app/" target="_blank">Portfolio</a></br>
+📧 <a href="mailto:raul.escobedo1012@gmail.com">raul.escobedo1012@gmail.com</a>
 
 ## &#x1f4c8; GitHub Stats
 

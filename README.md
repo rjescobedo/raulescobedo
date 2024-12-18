@@ -25,18 +25,29 @@ Let’s Connect! 🔗
 <a href="https://github.com/rjescobedo"  target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjescobedo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raul's GitHub Stats" />
 </a>
-![Screenshot 2024-12-18 at 5 36 43 PM](https://github.com/user-attachments/assets/d755fa63-f0ad-46fe-9b83-de9acafbff02)
+
 
 
 ## &#x1F4BB; Projects
 
 Here are a couple of projects I have been working on. Check it out on my GitHub and my <a href="https://raulescobedo-portfolio.netlify.app/" target="_blank">portfolio</a>!
 
+<a href="https://github.com/rjescobedo/baked-with-gratitude">
+  <img src="https://github.com/user-attachments/assets/e29a79f5-4271-48af-ab37-c1901cac6fe3" height="400" width="450"/>
+</a>
 <a href="https://github.com/rjescobedo/thetrainer">
-  <img src="https://user-images.githubusercontent.com/88142181/156946246-e6e54268-2100-499c-8508-e951dccb35f8.png" height="500"/>
+  <img src="https://user-images.githubusercontent.com/88142181/156946246-e6e54268-2100-499c-8508-e951dccb35f8.png" height="400" width="450"/>
 </a>
 <a href="https://github.com/pgartrell/okb">
-<img src="https://user-images.githubusercontent.com/88142181/156960492-9ea15f19-12d5-43c1-989d-1bfbe7f4a482.png" height="500"/>
+<img src="https://user-images.githubusercontent.com/88142181/156960492-9ea15f19-12d5-43c1-989d-1bfbe7f4a482.png" height="400" width="450"/>
 </a>
+<a href="https://github.com/rjescobedo/raulescobedo-portfolio">
+<img src="https://github.com/user-attachments/assets/22e8d9f8-c1cf-4d1d-a5d0-9a921adb5b02" height="400" width="450"/>
+</a>
+
+
+
+
+
 
 

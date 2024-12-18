@@ -21,10 +21,11 @@ Let’s Connect! 🔗
 
 <a href="https://github.com/rjescobedo" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjescobedo&hide=pug&title_color=ffffff&text_color=c9cacc&line_height=27&icon_color=2bbc8a&bg_color=1d1f21" />
- </a>
- <a href="https://github.com/rjescobedo"  target="_blank">
+</a>
+<a href="https://github.com/rjescobedo"  target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjescobedo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raul's GitHub Stats" />
-  </a>
+</a>
+![Screenshot 2024-12-18 at 5 36 43 PM](https://github.com/user-attachments/assets/d755fa63-f0ad-46fe-9b83-de9acafbff02)
 
 
 ## &#x1F4BB; Projects
@@ -37,3 +38,5 @@ Here are a couple of projects I have been working on. Check it out on my GitHub 
 <a href="https://github.com/pgartrell/okb">
 <img src="https://user-images.githubusercontent.com/88142181/156960492-9ea15f19-12d5-43c1-989d-1bfbe7f4a482.png" height="500"/>
 </a>
+
+

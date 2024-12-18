@@ -18,13 +18,9 @@ Let’s Connect! 🔗
 📧 <a href="mailto:raul.escobedo1012@gmail.com">raul.escobedo1012@gmail.com</a>
 
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/rjescobedo" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjescobedo&hide=pug&title_color=ffffff&text_color=c9cacc&line_height=27&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/rjescobedo"  target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjescobedo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raul's GitHub Stats" />
-</a>
+![rjescobedo's Stats](https://github-readme-stats.vercel.app/api?username=rjescobedo&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+![rjescobedo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rjescobedo&theme=algolia&hide_border=false)
+![rjescobedo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjescobedo&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 
 

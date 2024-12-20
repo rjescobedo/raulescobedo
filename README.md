@@ -18,8 +18,9 @@ Let’s Connect! 🔗
 📧 <a href="mailto:raul.escobedo1012@gmail.com">raul.escobedo1012@gmail.com</a>
 
 ## &#x1f4c8; GitHub Stats
+![rjescobedo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjescobedo&theme=algolia&show_icons=true&hide_border=false&layout=compact) </br>
 ![rjescobedo's Stats](https://github-readme-stats.vercel.app/api?username=rjescobedo&theme=algolia&show_icons=true&hide_border=false&count_private=true)
-![rjescobedo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjescobedo&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+
 
 
 

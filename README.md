@@ -19,7 +19,6 @@ Let’s Connect! 🔗
 
 ## &#x1f4c8; GitHub Stats
 ![rjescobedo's Stats](https://github-readme-stats.vercel.app/api?username=rjescobedo&theme=algolia&show_icons=true&hide_border=false&count_private=true)
-![rjescobedo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rjescobedo&theme=algolia&hide_border=false)
 ![rjescobedo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjescobedo&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 
